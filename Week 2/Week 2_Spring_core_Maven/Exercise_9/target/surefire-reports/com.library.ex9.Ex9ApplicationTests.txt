@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.library.ex9.Ex9ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.265 s - in com.library.ex9.Ex9ApplicationTests
