@@ -1,0 +1,10 @@
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\config\Jpaconfig.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\controller\DepartmentController.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\controller\EmployeeController.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\entity\Department.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\entity\Employee.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\ExerciseApplication.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\repository\DepartmentRepository.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\repository\EmployeeRepository.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\service\DepartmentService.java
+D:\_JAVA_\Exercise_7\src\main\java\com\company\exercise\service\EmployeeService.java
