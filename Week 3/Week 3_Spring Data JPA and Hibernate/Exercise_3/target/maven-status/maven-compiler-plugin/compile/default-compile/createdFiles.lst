@@ -1,0 +1,5 @@
+com\company\exercise_3\entity\Department.class
+com\company\exercise_3\repository\DepartmentRepository.class
+com\company\exercise_3\entity\Employee.class
+com\company\exercise_3\Exercise3Application.class
+com\company\exercise_3\repository\EmployeeRepository.class
