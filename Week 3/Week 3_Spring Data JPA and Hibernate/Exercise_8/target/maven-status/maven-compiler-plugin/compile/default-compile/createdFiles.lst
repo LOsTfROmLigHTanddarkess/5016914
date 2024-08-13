@@ -1,0 +1,14 @@
+com\company\exercise\projection\DepartmentProjection.class
+com\company\exercise\controller\EmployeeController.class
+com\company\exercise\entity\Employee.class
+com\company\exercise\repository\DepartmentRepository.class
+com\company\exercise\ExerciseApplication.class
+com\company\exercise\config\Jpaconfig.class
+com\company\exercise\projection\DepartmentSummary.class
+com\company\exercise\projection\EmployeeProjection.class
+com\company\exercise\service\DepartmentService.class
+com\company\exercise\entity\Department.class
+com\company\exercise\controller\DepartmentController.class
+com\company\exercise\service\EmployeeService.class
+com\company\exercise\repository\EmployeeRepository.class
+com\company\exercise\projection\EmployeeSummary.class
