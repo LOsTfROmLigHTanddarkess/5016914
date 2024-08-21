@@ -1,0 +1,16 @@
+com\bookstore\bookstore\exception\GlobalExceptionHandler.class
+com\bookstore\bookstore\mapper\BookMapper.class
+com\bookstore\bookstore\entity\Book.class
+com\bookstore\bookstore\mapper\BookMapperImpl.class
+com\bookstore\bookstore\repository\BookRepository.class
+com\bookstore\bookstore\dto\BookDTO.class
+com\bookstore\bookstore\exception\BookNotFoundException.class
+com\bookstore\bookstore\entity\Customer.class
+com\bookstore\bookstore\mapper\CustomerMapper.class
+com\bookstore\bookstore\controller\CustomerController.class
+com\bookstore\bookstore\exception\GlobalExceptionHandler$ErrorResponse.class
+com\bookstore\bookstore\dto\CustomerDTO.class
+com\bookstore\bookstore\repository\CustomerRepository.class
+com\bookstore\bookstore\mapper\CustomerMapperImpl.class
+com\bookstore\bookstore\controller\BookController.class
+com\bookstore\bookstore\BookstoreApplication.class
